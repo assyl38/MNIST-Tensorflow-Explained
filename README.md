@@ -32,3 +32,12 @@ model.add(Dropout(0.2))
 model.add(Dense(10))
 model.add(Activation('softmax'))
 ```
+
+# Credits
+
+[MNIST dataset](http://yann.lecun.com/exdb/mnist/)  </br>
+[Logits and log-odds](https://www.statisticshowto.com/log-odds/)</br>
+[Logits](https://fr.wikipedia.org/wiki/Logit)</br>
+[The sequential model](https://keras.io/guides/sequential_model/)</br>
+[TensorFlow 2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)</br>
+[Plotting MNIST digits](https://medium.com/the-data-science-publication/how-to-plot-mnist-digits-using-matplotlib-65a2e0cc068)
